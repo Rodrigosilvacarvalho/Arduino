@@ -30,7 +30,7 @@ const uint8_t
 // --- FastLED Setings
 #define LED_TYPE     WS2812B  // led strip type for FastLED
 #define COLOR_ORDER  RGB      // color order for bitbang
-#define PIN_DATA    22        // led data output pin
+#define PIN_DATA    11        //pin 22 no esp32 led data output pin
 // #define PIN_CLOCK  7       // led data clock pin (uncomment if you're using a 4-wire LED type)
 
 // --- Serial Settings
