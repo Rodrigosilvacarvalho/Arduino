@@ -1,0 +1,31 @@
+##############################################
+# Syntax Coloring Map For LcdProgressBarDouble
+##############################################
+
+##############################################
+# Datatypes (KEYWORD1)
+##############################################
+
+LcdProgressBarDouble	KEYWORD1
+
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+
+setMinValues	KEYWORD2
+setMinValue1	KEYWORD2
+setMinValue2	KEYWORD2
+setMaxValue1	KEYWORD2
+setMaxValue2	KEYWORD2
+setRangeValue1	KEYWORD2
+setRangeValue2	KEYWORD2
+disableBar1		KEYWORD2
+disableBar2		KEYWORD2
+draw			KEYWORD2
+drawValues		KEYWORD2
+
+##############################################
+# Constants (LITERAL1)
+##############################################
+
+LCDPROGRESSBARDOUBLE_VERSION	LITERAL1

@@ -1,0 +1,26 @@
+#
+#
+# Copy this file into C:\Program Files (x86)\Arduino\Hardware\Arduino\avr\ and then restart the Arduino IDE to configure it for use with the ArduinoTrack Shield.
+#
+#
+##############################################################
+trackshield.name=ArduinoTrack Shield
+trackshield.upload.tool=arduinoasisp
+trackshield.upload.protocol=stk500
+trackshield.upload.maximum_size=32768
+trackshield.upload.maximum_data_size=2048
+trackshield.upload.speed=19200
+trackshield.bootloader.tool=avrdude
+trackshield.bootloader.low_fuses=0xFF
+trackshield.bootloader.high_fuses=0xD6
+trackshield.bootloader.extended_fuses=0x05
+trackshield.bootloader.path=optiboot
+trackshield.bootloader.file=optiboot/optiboot_atmega328.hex
+trackshield.bootloader.unlock_bits=0x0F
+trackshield.bootloader.lock_bits=0x0F
+trackshield.build.mcu=atmega328p
+trackshield.build.f_cpu=16000000L
+trackshield.build.board=AVR_TRACKSHIELD
+trackshield.build.core=arduino
+trackshield.build.variant=standard
+##############################################################

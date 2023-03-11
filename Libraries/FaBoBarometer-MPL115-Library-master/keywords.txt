@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For FaBoBarometer-MPL115-Library
+####################################### 
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+FaBoBarometer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################	
+
+begin	KEYWORD2
+readCoef	KEYWORD2
+readData	KEYWORD2
+readHpa	KEYWORD2
+readTemp	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MPL115A2_SLAVE_ADDRESS	KEYWORD2
+MPL115A2_PADC_MSB	KEYWORD2
+MPL115A2_PADC_LSB	KEYWORD2
+MPL115A2_TADC_MSB	KEYWORD2
+MPL115A2_TACD_LSB	KEYWORD2
+MPL115A2_A0_MSB	KEYWORD2
+MPL115A2_A0_LSB	KEYWORD2
+MPL115A2_B1_MSB	KEYWORD2
+MPL115A2_B1_LSB	KEYWORD2
+MPL115A2_B2_MSB	KEYWORD2
+MPL115A2_B2_LSB	KEYWORD2
+MPL115A2_C12_MSB	KEYWORD2
+MPL115A2_C12_LSB	KEYWORD2
+MPL115A2_CONVERT	KEYWORD2

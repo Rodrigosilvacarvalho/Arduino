@@ -1,0 +1,1 @@
+java -cp BFVDesktop.jar;jssc.jar bfv.desktop.BFVDesktop

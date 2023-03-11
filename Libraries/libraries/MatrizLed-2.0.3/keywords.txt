@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For MatrizLed
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MatrizLed	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setLed		KEYWORD2
+begin		KEYWORD2
+escribirCaracter	KEYWORD2
+escribirFrase	KEYWORD2
+escribirCifra	KEYWORD2
+escribirFraseScroll	KEYWORD2
+borrar		KEYWORD2
+setIntensidad	KEYWORD2
+apagar	KEYWORD2
+encender	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

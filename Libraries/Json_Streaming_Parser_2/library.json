@@ -1,0 +1,30 @@
+ {
+  "name": "Json Streaming Parser 2",
+  "keywords": "json, streaming, https, http, wifi",
+  "description": "A character-by-character JSON parser to parse large JSON objects from HTTP or HTTPS on embedded devices. Requires a custom finite state machine (handler) for each JSON document, so use  ArduinoJSON where possible. Library includes useful example sketches.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrfaptastic/json-streaming-parser2.git"
+  },
+  "authors": {
+    "name": "Faptastic",
+    "url": "https://github.com/mrfaptastic/"
+  },
+  "version": "2.1.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "examples": [
+    "examples/HTTPS_StreamParser/*.ino",
+    "examples/HTTPS_StreamParser/*.cpp",
+    "examples/HTTPS_StreamParser/*.h",
+	
+    "examples/HTTPS_StreamParser_Weather/*.ino",
+    "examples/HTTPS_StreamParser_Weather/*.cpp",
+    "examples/HTTPS_StreamParser_Weather/*.h",	
+	
+    "examples/SimpleParser/*.ino",
+    "examples/SimpleParser/*.cpp",
+    "examples/SimpleParser/*.h"	
+	
+  ]
+}
